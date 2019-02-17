@@ -1,0 +1,105 @@
+
+form {
+    background-color:  #213b50;
+    padding: 20px;
+    color: white;
+    width: 600px;
+
+}
+
+form input, form select {
+    margin-bottom: 5px;
+    width: 300px;
+    background-color: #2b4a64;
+}
+
+form select, form input, form textarea {
+    widt: 300px
+}
+
+form select:focus, form input:focus, form textarea:focus {
+    background-color: #4e708c
+}
+
+form label {
+    display: block;
+}
+
+form input [type="submit"] {
+    background-color: #1ac056;
+    border:#2b4a64;
+    color:#fff; 
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-weight: 800;
+    cursor: pointer
+    
+}
+form input [type="submit"]:hover {
+    color:red;
+}
+
+form input [type="radio"], form input [type="checkbox"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

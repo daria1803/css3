@@ -1,0 +1,19 @@
+#p1 {
+    b
+}
+#inline-p1 {
+    background-color: green;
+}
+
+
+#inline-p2 {
+    background-color: aquamarine;
+}
+#inline-block-elements li {
+    background-color: greenyellow;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+
+}
