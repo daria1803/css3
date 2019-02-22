@@ -1,0 +1,112 @@
+.square {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    position: relative;
+}
+.box {
+    width: 198px;
+    height: 198px;
+    position: absolute;
+}
+.radius {
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    width: 98px;
+    height: 98px;
+    border: 1px solid white;
+}
+.box {
+    left: 0;
+    top: 0;
+    background-color: red;
+}
+.circle-inner {
+    background-color: pink;
+    top: 0;
+    left: 0;
+    
+}
+.box2 {
+    background-color: blue;
+    top: 0;
+    left: 200px;
+}
+.circle-inner2 {
+    background-color: grey;
+    top: 25%;
+    left: 25;
+}
+.box3 {
+    background-color: green;
+    top: 0;
+    left: 400px;
+}
+.circle-inner3 {
+    border: 1px solid white;
+    background-color: purple;
+    top: 25%;
+    left: 25%;
+}
+.box4 {
+    background-color: yellow;
+    top: 200px;
+    left: 0;
+}
+.circle-inner4 {
+    background-color: green;
+    top: 25%;
+    left: 25;
+}
+.box5 {
+    background-color: black;
+    top: 200px;
+    left: 200px;
+}
+.circle-inner5 {
+    background-color: red;
+    top: 25%;
+    left: 25%;
+}
+.box6 {
+    background-color: orange;
+    top: 200px;
+    left: 400px;
+}
+.circle-inner6 {
+    background-color: blue;
+    left: 25%;
+    top: 25%;
+}
+.box7 {
+    background-color: purple;
+    top: 400px;
+    left: 0;
+}
+.circle-inner7 {
+    background-color: orange;
+    top: 25%;
+    left: 25%;
+}
+.box8 {
+    background-color: grey;
+    top: 400px;
+    left: 200px;
+}
+.circle-inner8 {
+    background-color: yellow;
+    top: 25%;
+    left: 25%;
+}
+.box9 {
+    background-color: pink;
+    top: 400px;
+    left: 400px;
+}
+.circle-inner9 {
+    background-color: black;
+    top: 25%;
+    left: 25%;
+}
+
